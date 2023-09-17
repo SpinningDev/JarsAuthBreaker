@@ -8,9 +8,9 @@ JarsAuth殴打工具
 
 1. 从 [Releases](https://github.com/METSUBOUJINRAIxNET/JarsAuthBreaker/releases) 下载文件，并放到 **.minecraft** 或 **版本隔离** 的目录下 [**不要放在mods文件夹**] ，或自行选择一个目录放置JAB，然后给当前版本添加**JVM**参数 **-javassist:<JAB文件名/完整路径>**
 2. 未添加自定义模组的情况下启动游戏，等待出现提示“Hash变动”的弹窗后关闭游戏，生成的HASH已自动复制到剪贴板
-3. 给当前版本添加**JVM**参数 **-Djab.notify=false -Djab.hash=<生成的HASH>**
+3. 给当前版本添加**JVM**参数 **-Djab.notify=false -Djab.hash=<生成的HASH>**，禁用Hash变动提示并设定伪装的Hash
 4. 再次启动游戏，如果设置正确，此时JarsAuth应该已经被解除并允许添加自定义模组进服
-5. 服务器的整合包更新后，再进行一次此流程
+5. 服务器的整合包更新后，删除先前添加的 **-Djab.notify=false -Djab.hash=<生成的HASH>** 并重新进行一次此流程
 
 
 ## 其他破解方法
