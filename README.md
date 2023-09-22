@@ -25,6 +25,21 @@ JarsAuth殴打工具
 - **-Djab.notify** 启用/关闭JAB Hash更新弹窗
 - **-Djab.debug** 启用/关闭调试，启用后将在注入和验证包发送时弹窗 （230922+）
 
+**PCL2**
+![image](https://github.com/SpinningDev/JarsAuthBreaker/assets/110760759/2d30ac6a-0f11-48a9-a365-5ff9f0d9988a)
+![image](https://github.com/SpinningDev/JarsAuthBreaker/assets/110760759/44129093-e8fc-4784-b1ea-6a60bac0469d)
+
+**HMCL (1)**
+![image](https://github.com/SpinningDev/JarsAuthBreaker/assets/110760759/77783cae-49a1-433f-8471-53207e524516)
+![image](https://github.com/SpinningDev/JarsAuthBreaker/assets/110760759/d1e2b0d4-cc6f-466a-8d11-6f66efbf0df0)
+![image](https://github.com/SpinningDev/JarsAuthBreaker/assets/110760759/4ab8aca9-2b68-4620-a99d-55a75bbef43e)
+
+**HMCL(2)**
+![image](https://github.com/SpinningDev/JarsAuthBreaker/assets/110760759/ccdc2601-6a28-49b8-9dc1-1e2d4520b6a7)
+![image](https://github.com/SpinningDev/JarsAuthBreaker/assets/110760759/74716c2b-e694-47db-bfe0-08f1a3ed8765)
+![image](https://github.com/SpinningDev/JarsAuthBreaker/assets/110760759/7e3afb4c-3725-4cff-a117-b2e88853272c)
+
+
 ## 其他破解方法
 
 **此方法适用于JarsAuth 20230817及以前，已确认20230820已经移除本地配置**
